@@ -1,0 +1,19 @@
+{
+  "name": "razorpay",
+  "private": true,
+  "version": "0.0.0",
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "devDependencies": {
+    "vite": "^7.3.1"
+  },
+  "dependencies": {
+    "@tailwindcss/postcss": "^4.2.1",
+    "feather-icons": "^4.29.2",
+    "tailwindcss": "^4.2.1"
+  }
+}
