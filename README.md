@@ -41,15 +41,15 @@ Make sure you have [Node.js](https://nodejs.org/) installed on your machine.
    git clone [https://github.com/your-username/razorpay-clone.git](https://github.com/your-username/razorpay-clone.git)
 
 2. Navigate into the project directory:
-  ```bash
+ 
   cd razorpay-clone
 
 3. Install the dependencies:
-  ```bash
+  
   npm install
 
 4. Start the development server:
-  ```bash
+  
   npm run dev
 
 ## 📦 Project Structure
